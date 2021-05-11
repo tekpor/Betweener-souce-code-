@@ -4,7 +4,7 @@ No database connection
 
 ## License
  
-           Android-Video-Editor  Copyright (C) 2018  LLhon hon0608@163.com
+           Betweener  Copyright (C) 2020 Tekporacademy tekporademyinfo@gmail.com
            This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
            This is free software, and you are welcome to redistribute it
            under certain conditions; type `show c' for details.
