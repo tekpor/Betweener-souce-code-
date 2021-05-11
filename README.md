@@ -1,5 +1,5 @@
 # Betweener-souce-code-
-The souce code of betweener. If you are also looking for image and video shareing app the you can use this as a start.
+The souce code of betweener. If you are also looking for image and video shareing app then you can use this as a start.
 No database connection
 
 ## License
